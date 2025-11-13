@@ -62,7 +62,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 <a href="https://golang.org" target="_blank" rel="noreferrer" title="Go"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="30" height="30"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="Bash"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="30" height="30"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="Bash"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="30" height="30"/><img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-vertical.svg" alt="Ruby" width="30" height="30"/></a>
 </td>
 </tr>
 
