@@ -102,6 +102,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 <td style="border: none;"><b>Mobile & Desktop</b></td>
 <td style="border: none;">
 <a href="https://flutter.dev" target="_blank" rel="noreferrer" title="Flutter"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="30" height="30"/></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer" title="React Native"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="30" height="30"/></a>
 <a href="https://www.electronjs.org" target="_blank" rel="noreferrer" title="Electron"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="30" height="30"/></a>
 <a href="https://tauri.app/" target="_blank" rel="noreferrer" title="Tauri"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" alt="Tauri" width="30" height="30"/></a>
 <a href="https://ionicframework.com" target="_blank" rel="noreferrer" title="Ionic"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic" width="30" height="30"/></a>
