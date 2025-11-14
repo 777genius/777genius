@@ -44,8 +44,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 </p>
 -->
 
-<h3>Languages and Tools:</h3>
-
 <table style="border: none; border-collapse: collapse;">
 <colgroup>
 <col style="width: 200px;">
