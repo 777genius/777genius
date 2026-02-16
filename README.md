@@ -225,7 +225,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=777genius&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="777genius" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=777genius&theme=radical" alt="777genius" />
+
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=777genius&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="777genius" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=777genius&include_all_commits=true&theme=radical" alt="777genius" />
   
   
