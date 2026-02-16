@@ -198,10 +198,26 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 <td style="border: none;"><b>Architecture</b></td>
 <td style="border: none;">
 <a href="#" title="Clean Architecture"><img src="https://img.shields.io/badge/Clean_Architecture-00599C?style=flat" alt="Clean Architecture" height="15"/></a>
+<a href="#" title="Hexagonal Architecture"><img src="https://img.shields.io/badge/Hexagonal-0288D1?style=flat" alt="Hexagonal" height="15"/></a>
 <a href="#" title="DDD"><img src="https://img.shields.io/badge/DDD-FF6B6B?style=flat" alt="DDD" height="15"/></a>
-<a href="#" title="SOLID"><img src="https://img.shields.io/badge/SOLID-4CAF50?style=flat" alt="SOLID" height="15"/></a>
+<a href="#" title="CQRS"><img src="https://img.shields.io/badge/CQRS-7B1FA2?style=flat" alt="CQRS" height="15"/></a>
+<a href="#" title="Microservices"><img src="https://img.shields.io/badge/Microservices-00897B?style=flat" alt="Microservices" height="15"/></a>
 <a href="#" title="Pluggable Architecture"><img src="https://img.shields.io/badge/Pluggable-9C27B0?style=flat" alt="Pluggable" height="15"/></a>
 <a href="#" title="Monorepo"><img src="https://img.shields.io/badge/Monorepo-FF9800?style=flat" alt="Monorepo" height="15"/></a>
+</td>
+</tr>
+
+<tr>
+<td style="border: none;"><b>Principles</b></td>
+<td style="border: none;">
+<a href="#" title="SOLID"><img src="https://img.shields.io/badge/SOLID-4CAF50?style=flat" alt="SOLID" height="15"/></a>
+<a href="#" title="KISS"><img src="https://img.shields.io/badge/KISS-2196F3?style=flat" alt="KISS" height="15"/></a>
+<a href="#" title="DRY"><img src="https://img.shields.io/badge/DRY-FF5722?style=flat" alt="DRY" height="15"/></a>
+<a href="#" title="YAGNI"><img src="https://img.shields.io/badge/YAGNI-795548?style=flat" alt="YAGNI" height="15"/></a>
+<a href="#" title="Separation of Concerns"><img src="https://img.shields.io/badge/SoC-607D8B?style=flat" alt="SoC" height="15"/></a>
+<a href="#" title="High Cohesion / Low Coupling"><img src="https://img.shields.io/badge/High_Cohesion%2FLow_Coupling-E91E63?style=flat" alt="High Cohesion / Low Coupling" height="15"/></a>
+<a href="#" title="Fail Fast"><img src="https://img.shields.io/badge/Fail_Fast-F44336?style=flat" alt="Fail Fast" height="15"/></a>
+<a href="#" title="Explicit Dependencies"><img src="https://img.shields.io/badge/Explicit_Dependencies-009688?style=flat" alt="Explicit Dependencies" height="15"/></a>
 </td>
 </tr>
 
