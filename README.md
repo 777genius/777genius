@@ -292,7 +292,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 - [Desktop video capture](https://github.com/777genius/vue-electron-desktop-capture)
 - [Watch live logs in browser](https://github.com/777genius/symfony-server-dump-live)
 - [Simple snake and reaction test](https://github.com/777genius/mini-games)
-
 </details>
 
 Me on StackOverflow: [EN](https://stackoverflow.com/users/5286034/%d0%98%d0%bb%d1%8c%d1%8f-%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%8c%d0%ba%d0%be), [RU](https://ru.stackoverflow.com/users/192907/%d0%98%d0%bb%d1%8c%d1%8f-%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%8c%d0%ba%d0%be?tab=profile).
