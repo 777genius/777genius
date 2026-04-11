@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ilya</h1>
 
+<img width="1152" height="928" alt="sdelai-chtoby-logo-bylo-luchshe-vidno-s-_qs4cpjKgSpGfysghCzeytg_sg7QMMbNTb66AfRXLTJ80Q_cover_2k" src="https://github.com/user-attachments/assets/5df680bd-a7b5-4c6a-9dcf-f492a3c4f357" />
+
+
 <!-- [ro:](https://ro.charity/) startup participiant (charity social network). -->
 <!--
 Creator of [babyblog.ru](https://www.babyblog.ru/) using Vue/Nuxt.js.
@@ -44,6 +47,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 </p>
 -->
 
+
+
+
+
+
+
+<!--
 <table style="border: none; border-collapse: collapse;">
 <colgroup>
 <col style="width: 200px;">
@@ -241,6 +251,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 </tr>
 </table>
 
+-->
 <p align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=777genius&theme=radical" alt="777genius" />
 
@@ -250,6 +261,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
   
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=777genius&layout=compact&theme=radical" alt="Top lang" />-->
 </p>
+
 
 <!--
 <a href="https://profile.codersrank.io/user/777genius">
