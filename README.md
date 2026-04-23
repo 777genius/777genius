@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ilya</h1>
 
-<img width="1152" height="928" alt="sdelai-chtoby-logo-bylo-luchshe-vidno-s-_qs4cpjKgSpGfysghCzeytg_sg7QMMbNTb66AfRXLTJ80Q_cover_2k" src="https://github.com/user-attachments/assets/5df680bd-a7b5-4c6a-9dcf-f492a3c4f357" />
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/75444e17-bb81-41fe-a2c4-6886b0cdb657" />
 
+
+<!--
+<img width="1152" height="928" alt="sdelai-chtoby-logo-bylo-luchshe-vidno-s-_qs4cpjKgSpGfysghCzeytg_sg7QMMbNTb66AfRXLTJ80Q_cover_2k" src="https://github.com/user-attachments/assets/5df680bd-a7b5-4c6a-9dcf-f492a3c4f357" />
+-->
 
 <!-- [ro:](https://ro.charity/) startup participiant (charity social network). -->
 <!--
