@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ilya</h1>
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/75444e17-bb81-41fe-a2c4-6886b0cdb657" />
+<!-- <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/75444e17-bb81-41fe-a2c4-6886b0cdb657" /> -->
+
+<img width="985" height="726" alt="image" src="https://github.com/user-attachments/assets/9e03538b-9a6f-4217-a536-031d0d6c0bc0" />
+
 
 
 <!--
