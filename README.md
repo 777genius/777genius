@@ -312,7 +312,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 </details>
 -->
 
-### Interested projects
+<details>
+<summary><b>Interested projects</b></summary>
 
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop app for AI agent teams with parallel tasks, kanban, messaging and code review.
 - [Review Router AI](https://github.com/777genius/review-router-ai) / [Action](https://github.com/777genius/review-router) - Self-hosted GitHub PR reviews in your CI/CD using AI subscription accounts.
@@ -338,6 +339,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 - [VoiceText Gateway](https://github.com/777genius/voicetext-gateway) - Provider-agnostic Rust speech-to-text library and self-hosted gateway for batch and live audio.
 - [Qaspa](https://github.com/777genius/qaspa) - Kaspa blockchain fork with stealth addresses, ML-DSA signatures and offline key delegation.
 - [WorkloadFunnel](https://github.com/777genius/workload-funnel) - Durable scheduling and resource allocation for agents, jobs and processes (in development).
+
+</details>
 
 ### Old projects
 
