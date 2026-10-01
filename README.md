@@ -340,13 +340,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 - [Qaspa](https://github.com/777genius/qaspa) - Kaspa blockchain fork with stealth addresses, ML-DSA signatures and offline key delegation.
 - [WorkloadFunnel](https://github.com/777genius/workload-funnel) - Durable scheduling and resource allocation for agents, jobs and processes (in development).
 
-</details>
-
 ### Old projects
 
 - [Tiptap Vuetify](https://github.com/777genius/tiptap-vuetify) - WYSIWYG editor integrating Tiptap with Vuetify. 813 stars. 7+ years old.
 - [Vue Cool Select](https://github.com/777genius/vue-cool-select) - Vue select with autocomplete, slots, Bootstrap and Material themes. 240 stars. 7+ years old.
 - [FACEIT Elo Statistics](https://github.com/777genius/browser-extension-faceit-csgo) - Browser extension for player search and Elo statistics. 10,000 users.
+
+</details>
 
 Me on StackOverflow: [EN](https://stackoverflow.com/users/5286034/%d0%98%d0%bb%d1%8c%d1%8f-%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%8c%d0%ba%d0%be), [RU](https://ru.stackoverflow.com/users/192907/%d0%98%d0%bb%d1%8c%d1%8f-%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%8c%d0%ba%d0%be?tab=profile).
 
