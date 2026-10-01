@@ -312,6 +312,29 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 </details>
 -->
 
+### My projects
+
+- [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work.
+- [Review Router AI](https://github.com/777genius/review-router-ai) / [Review Router GitHub Action](https://github.com/777genius/review-router) - Free Powerfull AI code review that runs inside your CI/CD (privacy) using your subscription accounts (pool). Free/self-hosted deployment. Ready github integration.
+- [Agent Notifications](https://github.com/777genius/agent-notifications) - 🔔 Cross-platform smart notifications for Claude/Codex/OpenCode (more planned). Desktop alerts, sounds, click-to-focus, and webhooks. macOS, Linux, and Windows.
+- [Social Monitor](https://github.com/777genius/social-monitor) - Tired of scrolling through hundreds of near-identical posts across every social network just to find the few that actually matter. Instead of drowning in duplicate takes, reposts, and filler from X, Reddit, news sites, I wanted one tool that surfaces the posts that are interesting and unique. Feed based on Jev.
+- [Terminal Platform](https://github.com/777genius/terminal-platform) - Embeddable terminal platform in Rust with native PTY, tmux and Zellij backends for Electron and other hosts
+- [OS AI Computer Use](https://github.com/777genius/os-ai-computer-use) - AI controls your OS. OS AI Computer Use, OS and API agnostic. For now on OpenAI and Anthropic API. Desktop app ready.
+- [Subscription Runtime](https://github.com/777genius/ar) - Provider-neutral TypeScript runtime for running subscription-backed AI agents from backend services, CI jobs, local worker pools and controlled project workflows.
+- [Discord Meeting Assistant](https://github.com/777genius/discord-meeting-assistant) - Botik - self-hosted Discord meeting recording and transcription, with optional live captions, AI summaries and voice answers. Clean Architecture.
+- [Infinity Context](https://github.com/777genius/infinity-context) - Reliable memory and context infrastructure for AI coding agents: source-backed facts, review-gated learning, MCP/SDK/UI, and replaceable Qdrant/Graphiti retrieval.
+- [Voice to Text](https://github.com/777genius/voice-to-text) - Super-fast, accurate, real-time Voice to text using AI.  Provider-agnostic.
+- [Universal Agent Plugins](https://github.com/777genius/universal-agent-plugins) - Multi-agent CLI to install, update, repair, and remove Agent Plugins 1.0 across Codex/ChatGPT, Claude Code, Cursor, Gemini CLI, OpenCode, and more. 2,500+ plugins. SDK for universal plugins (hooks, detect, install)
+- [Multi Editor Flutter](https://github.com/777genius/multi_editor_flutter) - Multi-file code editor built with Flutter and Monaco Editor. Features modular architecture, file tree management, and plugin system.
+- [State Sync](https://github.com/777genius/state-sync) - Scalable, transport-agnostic state synchronization for multi-window and multi-process apps -- fully typed TypeScript with framework adapters for Redux, Zustand, Jotai, MobX, Pinia, Valtio, Svelte, and Vue.
+- [LintAI](https://github.com/777genius/lintai) - Offline-first, precision-first security linter for SKILLS, MCP, plugins, configs and other AI infrastructure.
+- [ProxyKit](https://github.com/777genius/proxykit) - Embeddable Go proxy foundation for reverse, forward, CONNECT, WebSocket, and runtime-aware proxy workflows.
+
+### Legacy open-source projects
+
+- [Tiptap Vuetify](https://github.com/777genius/tiptap-vuetify) - Vuetify editor. Component simplifies integration tiptap editor with vuetify. WYSIWYG
+- [Vue Cool Select](https://github.com/777genius/vue-cool-select) - Select with autocomplete, slots, bootstrap and material design themes.
+
 Me on StackOverflow: [EN](https://stackoverflow.com/users/5286034/%d0%98%d0%bb%d1%8c%d1%8f-%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%8c%d0%ba%d0%be), [RU](https://ru.stackoverflow.com/users/192907/%d0%98%d0%bb%d1%8c%d1%8f-%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%8c%d0%ba%d0%be?tab=profile).
 
 ---
