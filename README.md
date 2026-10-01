@@ -314,25 +314,33 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 
 ### Interested projects
 
-- [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop app to manage teams of AI agents.
-- [Review Router AI](https://github.com/777genius/review-router-ai) / [Action](https://github.com/777genius/review-router) - Self-hosted AI code review for GitHub PRs.
-- [Agent Notifications](https://github.com/777genius/agent-notifications) - Desktop alerts and webhooks for AI coding agents.
-- [Social Monitor](https://github.com/777genius/social-monitor) - AI-curated feeds from social media and news.
-- [Terminal Platform](https://github.com/777genius/terminal-platform) - Embeddable Rust terminals with PTY, tmux and Zellij.
-- [OS AI Computer Use](https://github.com/777genius/os-ai-computer-use) - AI desktop control with OpenAI and Anthropic.
-- [Subscription Runtime](https://github.com/777genius/ar) - Run Codex and Claude agents using subscription accounts.
-- [Discord Meeting Assistant](https://github.com/777genius/discord-meeting-assistant) - Record, transcribe and summarize Discord meetings.
-- [Infinity Context](https://github.com/777genius/infinity-context) - Persistent memory and context for AI coding agents.
-- [Voice to Text](https://github.com/777genius/voice-to-text) - Real-time AI speech-to-text desktop app.
-- [Universal Agent Plugins](https://github.com/777genius/universal-agent-plugins) - Plugin SDK, CLI and catalog for AI coding tools.
-- [State Sync](https://github.com/777genius/state-sync) - Typed state sync across windows, processes and frameworks.
-- [LintAI](https://github.com/777genius/lintai) - Offline security scanner for skills, MCP and plugins.
-- [ProxyKit](https://github.com/777genius/proxykit) - Go toolkit for HTTP, CONNECT and WebSocket proxies.
+- [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop app for AI agent teams with parallel tasks, kanban, messaging and code review.
+- [Review Router AI](https://github.com/777genius/review-router-ai) / [Action](https://github.com/777genius/review-router) - Self-hosted GitHub PR reviews in your CI/CD using AI subscription accounts.
+- [Agent Notifications](https://github.com/777genius/agent-notifications) - Cross-platform AI agent alerts with sounds, click-to-focus and webhook integrations.
+- [Social Monitor](https://github.com/777genius/social-monitor) - Find unique, relevant posts across social networks and news without duplicate content.
+- [Terminal Platform](https://github.com/777genius/terminal-platform) - Embeddable Rust terminal platform with native PTY, tmux and Zellij for Electron and other hosts.
+- [OS AI Computer Use](https://github.com/777genius/os-ai-computer-use) - Desktop AI agent that controls your OS through OpenAI or Anthropic, across operating systems.
+- [Subscription Runtime](https://github.com/777genius/ar) - Provider-neutral runtime for subscription-backed AI agents in services, CI and worker pools.
+- [Discord Meeting Assistant](https://github.com/777genius/discord-meeting-assistant) - Self-hosted Discord recording and transcription with live captions, AI summaries and voice answers.
+- [Infinity Context](https://github.com/777genius/infinity-context) - Reliable AI agent memory with source-backed facts, reviewed learning and MCP, SDK and UI access.
+- [Voice to Text](https://github.com/777genius/voice-to-text) - Fast, real-time AI speech-to-text desktop app with support for multiple providers.
+- [Universal Agent Plugins](https://github.com/777genius/universal-agent-plugins) - SDK, CLI and 2,500+ plugins for Codex, Claude Code, Cursor, Gemini CLI and other AI tools.
+- [State Sync](https://github.com/777genius/state-sync) - Typed state synchronization across windows and processes, with adapters for major JS frameworks.
+- [LintAI](https://github.com/777genius/lintai) - Offline-first security linter for AI skills, MCP configurations, plugins and agent instructions.
+- [ProxyKit](https://github.com/777genius/proxykit) - Embeddable Go toolkit for reverse and forward proxies, CONNECT tunnels and WebSockets.
+- [Get Modular](https://github.com/agent-teams-ai/get-modular) - Deterministic TypeScript module composition with explicit capabilities and immutable plans.
+- [Engineering Foundation](https://github.com/agent-teams-ai/engineering-foundation) - Versioned engineering policies, shared tooling and conformance checks for projects.
+- [Flutter Network Debugger](https://github.com/cherrypick-agency/flutter_network_debugger) - Proxy debugger for HTTP and WebSocket traffic, with Flutter integration and OS-wide inspection.
+- [Synchronize Cache](https://github.com/cherrypick-agency/synchronize_cache) - Offline-first Flutter/Drift data sync with push/pull, conflict resolution and automatic merging.
+- [Flutter Headless](https://github.com/777genius/flutter_headless) - Unstyled Flutter components with focus, keyboard and accessibility, plus Material and Cupertino themes.
+- [Fast Build Runner](https://github.com/777genius/fast_build_runner) - Faster incremental Dart/Flutter code generation while preserving build_runner output compatibility.
+- [Modularity Dart](https://github.com/cherrypick-agency/modularity_dart) - Modular Flutter/Dart architecture with isolated features, testability and predictable lifecycles.
+- [VoiceText Gateway](https://github.com/777genius/voicetext-gateway) - Provider-agnostic Rust speech-to-text library and self-hosted gateway for batch and live audio.
 
 ### Old projects
 
-- [Tiptap Vuetify](https://github.com/777genius/tiptap-vuetify) - WYSIWYG editor for Vuetify. 813 stars. Last commit: Feb 2024 (2+ years ago).
-- [Vue Cool Select](https://github.com/777genius/vue-cool-select) - Vue select with autocomplete. 240 stars. Last commit: Feb 2024 (2+ years ago).
+- [Tiptap Vuetify](https://github.com/777genius/tiptap-vuetify) - WYSIWYG editor integrating Tiptap with Vuetify. 813 stars. 7+ years old.
+- [Vue Cool Select](https://github.com/777genius/vue-cool-select) - Vue select with autocomplete, slots, Bootstrap and Material themes. 240 stars. 7+ years old.
 
 Me on StackOverflow: [EN](https://stackoverflow.com/users/5286034/%d0%98%d0%bb%d1%8c%d1%8f-%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%8c%d0%ba%d0%be), [RU](https://ru.stackoverflow.com/users/192907/%d0%98%d0%bb%d1%8c%d1%8f-%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%8c%d0%ba%d0%be?tab=profile).
 
