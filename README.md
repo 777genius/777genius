@@ -348,11 +348,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 
 </details>
 
-Me on StackOverflow: [EN](https://stackoverflow.com/users/5286034/%d0%98%d0%bb%d1%8c%d1%8f-%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%8c%d0%ba%d0%be), [RU](https://ru.stackoverflow.com/users/192907/%d0%98%d0%bb%d1%8c%d1%8f-%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%8c%d0%ba%d0%be?tab=profile).
-
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iliyaZelenko" alt="777genius" /> </p>
+<p align="right">
+  <img align="left" src="https://komarev.com/ghpvc/?username=iliyaZelenko" alt="777genius" />
+  Me on StackOverflow: <a href="https://stackoverflow.com/users/5286034/%d0%98%d0%bb%d1%8c%d1%8f-%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%8c%d0%ba%d0%be">EN</a>, <a href="https://ru.stackoverflow.com/users/192907/%d0%98%d0%bb%d1%8c%d1%8f-%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%8c%d0%ba%d0%be?tab=profile">RU</a>.
+</p>
 
 <!--
 **777genius/777genius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
