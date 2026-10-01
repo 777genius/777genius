@@ -337,6 +337,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 - [Modularity Dart](https://github.com/cherrypick-agency/modularity_dart) - Modular Flutter/Dart architecture with isolated features, testability and predictable lifecycles.
 - [VoiceText Gateway](https://github.com/777genius/voicetext-gateway) - Provider-agnostic Rust speech-to-text library and self-hosted gateway for batch and live audio.
 
+- [Qaspa](https://github.com/777genius/qaspa) - Kaspa blockchain fork with stealth addresses, ML-DSA signatures and offline key delegation.
+
 ### Old projects
 
 - [Tiptap Vuetify](https://github.com/777genius/tiptap-vuetify) - WYSIWYG editor integrating Tiptap with Vuetify. 813 stars. 7+ years old.
