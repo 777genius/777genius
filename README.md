@@ -313,7 +313,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 -->
 
 <details>
-<summary><b>Interested projects</b></summary>
+<summary><b>Interesting projects ⭐️</b></summary>
 
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop app for AI agent teams with parallel tasks, kanban, messaging and code review.
 - [Review Router AI](https://github.com/777genius/review-router-ai) / [Action](https://github.com/777genius/review-router) - Self-hosted GitHub PR reviews in your CI/CD using AI subscription accounts.
