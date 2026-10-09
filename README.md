@@ -315,7 +315,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 <details>
 <summary><b>Interesting projects ⭐️</b></summary>
 
-- [Clean Disk](https://github.com/777genius/clean_disk) - Super fast disk scan for cleaning. Flutter + Rust. Cross-platform app ready.
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop app for AI agent teams with parallel tasks, kanban, messaging and code review.
 - [Review Router AI](https://github.com/777genius/review-router-ai) / [Action](https://github.com/777genius/review-router) - Self-hosted GitHub PR reviews in your CI/CD using AI subscription accounts.
 - [Agent Notifications](https://github.com/777genius/agent-notifications) - Cross-platform AI agent alerts with sounds, click-to-focus and webhook integrations.
@@ -340,6 +339,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 - [VoiceText Gateway](https://github.com/777genius/voicetext-gateway) - Provider-agnostic Rust speech-to-text library and self-hosted gateway for batch and live audio.
 - [Qaspa](https://github.com/777genius/qaspa) - Kaspa blockchain fork with stealth addresses, ML-DSA signatures and offline key delegation.
 - [WorkloadFunnel](https://github.com/777genius/workload-funnel) - Durable scheduling and resource allocation for agents, jobs and processes (in development).
+
+- [Clean Disk](https://github.com/777genius/clean_disk) - Super fast disk scan for cleaning. Flutter + Rust. Cross-platform app ready.
 
 ### Old projects
 
