@@ -315,6 +315,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 <details>
 <summary><b>Interesting projects ⭐️</b></summary>
 
+- [Clean Disk](https://github.com/777genius/clean_disk) - Super fast disk scan for cleaning. Flutter + Rust. Cross-platform app ready.
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop app for AI agent teams with parallel tasks, kanban, messaging and code review.
 - [Review Router AI](https://github.com/777genius/review-router-ai) / [Action](https://github.com/777genius/review-router) - Self-hosted GitHub PR reviews in your CI/CD using AI subscription accounts.
 - [Agent Notifications](https://github.com/777genius/agent-notifications) - Cross-platform AI agent alerts with sounds, click-to-focus and webhook integrations.
