@@ -349,14 +349,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 
 </details>
 
+<a align="right" href="https://trendshift.io/developers/11015?utm_source=developer-badge&amp;utm_medium=badge&amp;utm_campaign=badge-developer-11015" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/developers/11015" alt="777genius | Trendshift" width="250" height="55"/></a>
 
-<p align="right">
-  <img align="left" src="https://komarev.com/ghpvc/?username=iliyaZelenko" alt="777genius" />
-    <!--
+  <img src="https://komarev.com/ghpvc/?username=iliyaZelenko" alt="777genius" />
+  
+
+  <!--
   Me on StackOverflow: <a href="https://stackoverflow.com/users/5286034/%d0%98%d0%bb%d1%8c%d1%8f-%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%8c%d0%ba%d0%be">EN</a>, <a href="https://ru.stackoverflow.com/users/192907/%d0%98%d0%bb%d1%8c%d1%8f-%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%8c%d0%ba%d0%be?tab=profile">RU</a>.
-    -->
-</p>
-
+  -->
 
 <!--
 **777genius/777genius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
