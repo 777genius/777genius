@@ -313,6 +313,21 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 </details>
 -->
 
+
+  <img align="right" src="https://komarev.com/ghpvc/?username=iliyaZelenko" alt="777genius" />
+  
+
+<a align="right" href="https://trendshift.io/developers/11015?utm_source=developer-badge&amp;utm_medium=badge&amp;utm_campaign=badge-developer-11015" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/developers/11015" alt="777genius | Trendshift" width="250" height="55"/></a>
+
+<p>
+
+<a href="https://x.com/x777genius">Me on X</a>
+<img align="left" height="25" alt="image" src="https://github.com/user-attachments/assets/32655708-975e-4f63-b167-ef1a73e900dd" />
+
+</p>
+
+
+
 <details>
 <summary><b>Interesting projects ⭐️</b></summary>
 
@@ -350,10 +365,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 
 </details>
 
-<a align="right" href="https://trendshift.io/developers/11015?utm_source=developer-badge&amp;utm_medium=badge&amp;utm_campaign=badge-developer-11015" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/developers/11015" alt="777genius | Trendshift" width="250" height="55"/></a>
-
-  <img src="https://komarev.com/ghpvc/?username=iliyaZelenko" alt="777genius" />
-  
 
   <!--
   Me on StackOverflow: <a href="https://stackoverflow.com/users/5286034/%d0%98%d0%bb%d1%8c%d1%8f-%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%8c%d0%ba%d0%be">EN</a>, <a href="https://ru.stackoverflow.com/users/192907/%d0%98%d0%bb%d1%8c%d1%8f-%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%8c%d0%ba%d0%be?tab=profile">RU</a>.
