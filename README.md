@@ -349,6 +349,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 - [Engineering Foundation](https://github.com/agent-teams-ai/engineering-foundation) - Versioned engineering policies, shared tooling and conformance checks for projects.
 - [Flutter Network Debugger](https://github.com/cherrypick-agency/flutter_network_debugger) - Proxy debugger for HTTP and WebSocket traffic, with Flutter integration and OS-wide inspection.
 - [Synchronize Cache](https://github.com/cherrypick-agency/synchronize_cache) - Offline-first Flutter/Drift data sync with push/pull, conflict resolution and automatic merging.
+- [Dartdoc Modern](https://github.com/777genius/dartdoc_modern) - Modern API documentation tool for Dart using VitePress.
 - [Flutter Headless](https://github.com/777genius/flutter_headless) - Unstyled Flutter components with focus, keyboard and accessibility, plus Material and Cupertino themes.
 - [Fast Build Runner](https://github.com/777genius/fast_build_runner) - Faster incremental Dart/Flutter code generation while preserving build_runner output compatibility.
 - [Modularity Dart](https://github.com/cherrypick-agency/modularity_dart) - Modular Flutter/Dart architecture with isolated features, testability and predictable lifecycles.
